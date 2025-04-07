@@ -1,6 +1,6 @@
 # Hi 👋, my name is Ben!
 
-**CS Student @ ETH | Hackathon Addict | Builder**
+**CS Student @ ETH Zurich | Hackathon Addict | Builder**
 
 Feel free to check out [www.benmartin.io](https://www.benmartin.io). 
 
