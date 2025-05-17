@@ -20,7 +20,3 @@ I study Computer Science at ETH Zurich. I love hackathons and enjoy building thi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </p>
 
-
-## Statistics
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenEliasMartin&hide_progress=true)
