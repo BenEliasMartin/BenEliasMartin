@@ -23,4 +23,4 @@ I study Computer Science at ETH Zurich. I love hackathons and enjoy building thi
 
 ## Statistics
 
-_Stay tuned!_
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenEliasMartin&hide_progress=true)
